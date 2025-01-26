@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSearchCode",
+      "LiFileCode2",
+      "LiDatabaseBackup",
+      "🥙",
+      "LiDatabase"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Ubuntu command": "💽",
+  "Obsidian Tips/code or obsidian.md": "LiFileCode2",
+  "Ubuntu command/1 Ubuntu command.md": "LiSearchCode",
+  "Ubuntu command/Apache2.md": "LiDatabase",
+  "Ubuntu command/MongoDB.md": "🥙",
+  "Ubuntu command/MySQL ubuntu.md": "LiDatabaseBackup"
+}

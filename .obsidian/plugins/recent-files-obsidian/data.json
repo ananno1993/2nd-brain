@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "MongoDB",
+      "path": "Ubuntu command/MongoDB.md"
+    },
+    {
+      "basename": "MySQL ubuntu",
+      "path": "Ubuntu command/MySQL ubuntu.md"
+    },
+    {
+      "basename": "1 Ubuntu command",
+      "path": "Ubuntu command/1 Ubuntu command.md"
+    },
+    {
+      "basename": "Apache2",
+      "path": "Ubuntu command/Apache2.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
